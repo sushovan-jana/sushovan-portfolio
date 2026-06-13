@@ -1,129 +1,27 @@
-# 🚀 Sushovan Jana - Developer Portfolio
+# Cinematic Developer Portfolio 🎬
 
-Welcome to my personal portfolio website!  
-This project showcases my skills, projects, and experience as a **Java Backend Developer**.
-
----
-
-## 👨‍💻 About Me
-
-Hi, I'm **Sushovan Jana**, a passionate Java Backend Developer with strong knowledge of:
-
-- Core Java & Object-Oriented Programming
-- Spring Boot & RESTful APIs
-- MySQL Database Management
-- Backend System Design (MVC Architecture)
-- Problem Solving & Data Structures
-
-I enjoy building scalable backend systems and continuously improving my development skills.
+A premium, highly aesthetic portfolio application designed to showcase my Java backend engineering skills, system designs, and technical certifications.
 
 ---
 
-## 🌐 Live Portfolio
-
-👉 [View Live Website](https://sushovan-portfolio.vercel.app)
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:**
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-
-**Backend:**
-- Java
-- Spring Boot
-- Spring MVC
-- Hibernate
-- JDBC
-- REST APIs
-- Spring Security (basic knowledge)
-
-**Database:**
-- MySQL
-
-**Tools & Platforms:**
-- Git & GitHub
-- Maven
-- Postman
-- VS Code / IntelliJ IDEA
-- Hostinger (Deployment)
+## 🛠️ Design & Tech Stack
+* **Markup:** Semantic HTML5
+* **Styling:** CSS3 Custom Variables, Responsive Grid/Flexbox Layouts, Glassmorphism UI Cards
+* **Interactions:** Vanilla JavaScript (Dynamic scroll animations, dark/light theme toggle, contact validation)
+* **Deployment:** Vercel Hosting
 
 ---
 
-## 📂 Featured Projects
-
-### 🔐 OTP-Based Authentication System
-- Secure login system using Spring Boot + Spring Security
-- Email OTP verification for authentication flow
-- Token/session validation system
-
-🔗 GitHub: https://github.com/sushovan-jana/spring-boot-learning/tree/main/sb-13-otp-auth
+## 💡 Engineering Highlights
+* **Performance:** Optimized image assets, custom icon loading, and zero external JS dependency overhead to ensure high PageSpeed metrics.
+* **Responsiveness:** Fluid media query system built to scale across mobile devices, tablets, and ultra-wide desktops.
+* **Interactions:** Dynamic scroll listener triggering CSS transitions for clean UI/UX micro-interactions.
 
 ---
 
-### 🔑 Backend Login Application
-- REST API-based authentication system
-- Layered architecture with service/controller/repository layers
-- MySQL integration for user management
-
-🔗 GitHub: https://github.com/sushovan-jana/spring-boot-learning/tree/main/sb-16-backend-login-app
-
----
-
-### 🏥 SwasthyaLipi - Healthcare Platform
-- Full-stack appointment booking system
-- Real-time scheduling functionality
-- Database-driven healthcare management system
-- Deployed on Hostinger
-
-🔗 Live: https://swasthyalipi.com/
-
----
-
-## 🎓 Education
-
-- 🎓 B.Tech in Computer Science and Engineering (2021–2025)  
-  Elitte College of Engineering
-
-- 🏫 Higher Secondary (2019–2021)
-
-- 🏫 Secondary Education (2018–2019)
-
----
-
-## 📜 Certifications
-
-- Java Programming (Core + Advanced) - Udemy  
-- JavaScript (ES6+) - Udemy  
-
----
-
-## 📈 Goals
-
-- Become a strong Backend Software Engineer
-- Master Spring Boot + Microservices
-- Contribute to production-level systems
-- Work in a top tech company
-
----
-
-## 📬 Contact
-
-- 📧 Email: janasushovan5@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/sushovanjana/  
-- 🧑‍💻 GitHub: https://github.com/sushovan-jana  
-
----
-
-## ⭐ Show Your Support
-
-If you like this project, feel free to ⭐ the repository!
-
----
-
-## 🧠 Note
-
-This portfolio is continuously improving with new features, animations, and optimizations.
+## 🚀 Local Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/sushovan-jana/sushovan-portfolio.git
+   ```
+2. Open `index.html` directly in your browser, or serve it using Live Server on VS Code.
